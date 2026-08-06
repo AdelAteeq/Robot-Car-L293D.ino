@@ -1,2 +1,1 @@
-Tinkercad Project:
-https://www.tinkercad.com/things/jOKxDPJwb6J-arduino-motor-obstacle-avoidance?sharecode=ZDpseofTCKxvgIGKfvvcFtZl9H6K25ypRWZ0DyDuXdA
+https://www.tinkercad.com/things/ijsetGrUlYx-servo-ultrasonic-control?sharecode=ejGBJekrpsvH56MtUm-KjGq2DJewwb_LAkJNTGNJywM
